@@ -1,5 +1,5 @@
-ISPConfig_Clean
-===============
+ISPConfig_Clean-3.0.4
+=====================
 
 Clean theme for ISPConfig 3.0.4 and below. 
 
