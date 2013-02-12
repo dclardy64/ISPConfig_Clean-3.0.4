@@ -1,7 +1,7 @@
 ISPConfig_Clean
 ===============
 
-Clean theme for ISPConfig 3.4 and below. 
+Clean theme for ISPConfig 3.0.4 and below. 
 
 
 Installation
